@@ -1,5 +1,6 @@
 #!/bin/bash
 
+exit
 #xdiff library
 cd /usr/src
 wget http://www.xmailserver.org/libxdiff-0.22.tar.gz
